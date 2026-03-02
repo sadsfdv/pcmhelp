@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+ 
+https://pcmdhelp.readthedocs.io/en/latest/sitemap.xml
